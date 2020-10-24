@@ -23,7 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-#![Video] (https://media.giphy.com/media/30CWlkBDzZkgE7JVMs/giphy.gif)
-#![Video] ( )
+#![Video](https://media.giphy.com/media/30CWlkBDzZkgE7JVMs/giphy.gif)
 
 
