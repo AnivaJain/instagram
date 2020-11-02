@@ -1,20 +1,18 @@
 //
-//  PostCell.swift
+//  CommentCell.swift
 //  instagram
 //
-//  Created by Sambhav on 10/23/20.
+//  Created by Sambhav on 10/30/20.
 //
 
 import UIKit
 
-class PostCell: UITableViewCell {
+class CommentCell: UITableViewCell {
 
-    @IBOutlet weak var usernameLabel: UILabel!
-    @IBOutlet weak var captionLabel: UILabel!
-    @IBOutlet weak var photoView: UIImageView!
-  
-    
-    override func awakeFromNib() {
+    @IBOutlet weak var nameLabel: UILabel!
+    @IBOutlet weak var commentLabel: UILabel!
+   
+     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
     }

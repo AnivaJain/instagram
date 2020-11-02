@@ -18,14 +18,14 @@ class LoginViewController: UIViewController {
     override func viewDidLoad() {
         
         // --- Copy this only
-        
+     /*
         let parseConfig = ParseClientConfiguration {
                 $0.applicationId = "YdQGt0zz4cYY1jYos9zoPQzYgsBMVhW9BMLOTBW3" // <- UPDATE
                 $0.clientKey = "oAIiaL8G6YJ5o3xBf8EWgFzSpa9gk2q9Ry4aQAbv" // <- UPDATE
                 $0.server = "https://parseapi.back4app.com"
         }
         Parse.initialize(with: parseConfig)
-        
+       */
         // --- end copy
 
         super.viewDidLoad()
