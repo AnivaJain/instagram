@@ -25,4 +25,5 @@ Here's a walkthrough of implemented user stories:
 
 #![Video](https://media.giphy.com/media/30CWlkBDzZkgE7JVMs/giphy.gif)
 #![Video](https://media.giphy.com/media/lrgDTOhG1izmjHAqUk/giphy.gif)
+#![Video](https://media.giphy.com/media/7lL770gE4CYIpgjMmQ/giphy.mp4)
 
